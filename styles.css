@@ -546,7 +546,12 @@ summary {
 }
 
 .contact-item a {
+  color: var(--plum);
   font-weight: 700;
+}
+
+.contact-item a:hover {
+  color: var(--violet);
 }
 
 .reveal {
